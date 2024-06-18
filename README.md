@@ -32,7 +32,7 @@ To replicate the embedded system design:
 2. Open the project files in Altium Designer.
 3. Follow the step-by-step instructions provided in the documentation to create the schematic and layout for the embedded system.
 4. Customize the design as per your requirements, such as selecting different components or modifying the PCB layout.
-5. Generate Gerber files and manufacturing documentation for PCB fabrication.
+5. Generate Gerber files and manufacturing documentation for PCB fabrication. (To generate Gerber files and want to know how to manufacture your PCB please refer ```📌 References and more details```)
 
 # 📂 Contents
 
