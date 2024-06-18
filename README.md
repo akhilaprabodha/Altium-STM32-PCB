@@ -50,3 +50,6 @@ To replicate the embedded system design:
 # 🤝 Contributing
 
 If you have any improvements or suggestions for this project, feel free to submit pull requests or raise issues in the repository.
+
+# 📌 References:
+[STM32 PCB Design](https://youtu.be/PMEpQZ90f34?si=VV5bC6_g1Tx0Hyfx)
