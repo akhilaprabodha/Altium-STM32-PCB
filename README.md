@@ -34,7 +34,7 @@ To replicate the embedded system design:
 4. Customize the design as per your requirements, such as selecting different components or modifying the PCB layout.
 5. Generate Gerber files and manufacturing documentation for PCB fabrication. (To generate Gerber files and want to know how to manufacture your PCB please refer ```📌 References and more details```)
 
-# 
+# 🎥 3D View
 
 <div align="center">
   <img src="https://github.com/akhilaprabodha/Altium-STM32-PCB/assets/107745538/5269db39-91d6-409b-a79d-72b935bbd380" alt="Sample GIF" width="100%">
